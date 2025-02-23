@@ -1,0 +1,26 @@
+airline_name,origin_code,origin_city,destination_code,dest_city,dest_country,min,nominal,45_plus,100_plus
+Air India,MUC,Dubai,MEX,Beijing,Germany,340,20.47,22.52,18.42
+Emirates,BOM,New York,CDG,San Francisco,United Kingdom,991,23.07,25.38,20.76
+British Airways,DEL,Mumbai,MEX,Melbourne,Germany,870,15.34,16.87,13.81
+American Airlines,DXB,New York,SFO,Munich,United Kingdom,629,23.3,25.63,20.97
+Delta,DEL,Mumbai,MUC,San Francisco,USA,391,20.87,22.96,18.78
+Air Canada,FRA,Berlin,MEX,Beijing,India,582,20.87,22.96,18.78
+Lufthansa,MUC,London,MEL,Paris,United Kingdom,538,26.95,29.65,24.25
+Qantas,SYD,Delhi,PEK,Beijing,Germany,659,24.23,26.65,21.81
+Delta,SYD,Chicago,SFO,Tokyo,India,605,15.48,17.03,13.93
+Air India,ATL,Los Angeles,DEL,Munich,India,598,19.7,21.67,17.73
+Qantas,BOM,Chicago,MUC,Cape Town,Germany,848,24.58,27.04,22.12
+Emirates,DEL,Mumbai,MUC,Paris,Australia,504,24.54,26.99,22.09
+Singapore Airlines,DXB,Berlin,MEX,Beijing,India,925,26.38,29.02,23.74
+Emirates,LAX,Berlin,CDG,Cape Town,Australia,558,24.64,27.1,22.18
+American Airlines,LAX,Dubai,DEL,Munich,India,533,21.74,23.91,19.57
+Air Canada,FRA,Dubai,SFO,San Francisco,Germany,498,16.91,18.6,15.22
+Air Canada,LAX,Mumbai,SIN,Cape Town,USA,364,24.08,26.49,21.67
+JetBlue,JFK,New York,DEL,Paris,Australia,393,29.73,32.7,26.76
+Qantas,DXB,Sydney,CPT,San Francisco,Germany,829,23.87,26.26,21.48
+Singapore Airlines,JFK,New York,SIN,Tokyo,Germany,844,18.47,20.32,16.62
+Qantas,LAX,Los Angeles,CPT,Munich,India,961,17.39,19.13,15.65
+Emirates,LAX,Chicago,MEL,Singapore,Australia,521,19.86,21.85,17.87
+British Airways,DXB,Dubai,DEL,Tokyo,India,702,24.78,27.26,22.3
+American Airlines,LHR,Berlin,SFO,Cape Town,United Kingdom,776,15.86,17.45,14.27
+Air India,BOM,London,CDG,Beijing,USA,846,22.64,24.9,20.38
