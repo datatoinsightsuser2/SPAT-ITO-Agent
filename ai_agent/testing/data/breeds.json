@@ -1,0 +1,27 @@
+[
+  {
+    "breed": "Labrador",
+    "countriesThatBan": [],
+    "airlinesThatAllow": ["IAG", "Air France-KLM", "Lufthansa", "Amerijet", "Emirates"]
+  },
+  {
+    "breed": "Bulldog",
+    "countriesThatBan": ["United Kingdom", "France"],
+    "airlinesThatAllow": []
+  },
+  {
+    "breed": "Poodle",
+    "countriesThatBan": [],
+    "airlinesThatAllow": ["IAG", "Air France-KLM", "Lufthansa", "Emirates"]
+  },
+  {
+    "breed": "German Shepherd",
+    "countriesThatBan": ["United Arab Emirates"],
+    "airlinesThatAllow": ["IAG", "Lufthansa", "Amerijet"]
+  },
+  {
+    "breed": "Chihuahua",
+    "countriesThatBan": [],
+    "airlinesThatAllow": ["IAG", "Air France-KLM", "Amerijet", "Emirates"]
+  }
+]
