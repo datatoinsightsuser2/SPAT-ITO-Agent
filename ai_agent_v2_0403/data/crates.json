@@ -1,0 +1,22 @@
+[
+  {
+    "size": "Giant",
+    "model": "Series 700",
+    "ext_dim": { "length": 150, "width": 90, "height": 100 }
+  },
+  {
+    "size": "Medium",
+    "model": "Series 300",
+    "ext_dim": { "length": 80, "width": 60, "height": 50 }
+  },
+  {
+    "size": "Small",
+    "model": "Series 100",
+    "ext_dim": { "length": 40, "width": 20, "height": 20 }
+  },
+  {
+    "size": "XLarge",
+    "model": "Series 900",
+    "ext_dim": { "length": 90, "width": 80, "height": 70 }
+  }
+]
