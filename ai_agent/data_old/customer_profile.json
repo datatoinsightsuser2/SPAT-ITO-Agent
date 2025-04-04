@@ -1,0 +1,162 @@
+[
+  {
+    "email": "user1@mail.com",
+    "origin": "Chicago",
+    "destination_city": "Madrid",
+    "destination_country": "Spain",
+    "pets": [
+      {
+        "name": "Charlie",
+        "type": "cat",
+        "breed": "Siamese",
+        "length_in": 29,
+        "height_in": 28,
+        "weight_lbs": 54
+      }
+    ]
+  },
+  {
+    "email": "user2@mail.com",
+    "origin": "Los Angeles",
+    "destination_city": "Tokyo",
+    "destination_country": "Japan",
+    "pets": [
+      {
+        "name": "Coco",
+        "type": "dog",
+        "breed": "Beagle",
+        "length_in": 31,
+        "height_in": 25,
+        "weight_lbs": 56
+      }
+    ]
+  },
+  {
+    "email": "user3@mail.com",
+    "origin": "Dallas",
+    "destination_city": "Paris",
+    "destination_country": "France",
+    "pets": [
+      {
+        "name": "Max",
+        "type": "dog",
+        "breed": "Labrador",
+        "length_in": 23,
+        "height_in": 24,
+        "weight_lbs": 34
+      }
+    ]
+  },
+  {
+    "email": "user4@mail.com",
+    "origin": "Chicago",
+    "destination_city": "London",
+    "destination_country": "UK",
+    "pets": [
+      {
+        "name": "Milo",
+        "type": "cat",
+        "breed": "Siamese",
+        "length_in": 28,
+        "height_in": 19,
+        "weight_lbs": 38
+      }
+    ]
+  },
+  {
+    "email": "user5@mail.com",
+    "origin": "Los Angeles",
+    "destination_city": "Amsterdam",
+    "destination_country": "Netherlands",
+    "pets": [
+      {
+        "name": "Daisy",
+        "type": "cat",
+        "breed": "Maine Coon",
+        "length_in": 35,
+        "height_in": 28,
+        "weight_lbs": 13
+      }
+    ]
+  },
+  {
+    "email": "user6@mail.com",
+    "origin": "New York",
+    "destination_city": "London",
+    "destination_country": "UK",
+    "pets": [
+      {
+        "name": "Max",
+        "type": "dog",
+        "breed": "Labrador",
+        "length_in": 30,
+        "height_in": 25,
+        "weight_lbs": 17
+      }
+    ]
+  },
+  {
+    "email": "user7@mail.com",
+    "origin": "Atlanta",
+    "destination_city": "Dubai",
+    "destination_country": "UAE",
+    "pets": [
+      {
+        "name": "Luna",
+        "type": "cat",
+        "breed": "Persian",
+        "length_in": 39,
+        "height_in": 26,
+        "weight_lbs": 31
+      }
+    ]
+  },
+  {
+    "email": "user8@mail.com",
+    "origin": "Atlanta",
+    "destination_city": "Madrid",
+    "destination_country": "Spain",
+    "pets": [
+      {
+        "name": "Luna",
+        "type": "dog",
+        "breed": "Labrador",
+        "length_in": 33,
+        "height_in": 22,
+        "weight_lbs": 98
+      }
+    ]
+  },
+  {
+    "email": "user9@mail.com",
+    "origin": "Atlanta",
+    "destination_city": "Berlin",
+    "destination_country": "Germany",
+    "pets": [
+      {
+        "name": "Coco",
+        "type": "cat",
+        "breed": "Bengal",
+        "length_in": 29,
+        "height_in": 21,
+        "weight_lbs": 25
+      }
+    ]
+  },
+  {
+    "email": "user10@mail.com",
+    "origin": "Los Angeles",
+    "destination_city": "Rome",
+    "destination_country": "Italy",
+    "pets": [
+      {
+        "name": "Daisy",
+        "type": "dog",
+        "breed": "Golden Retriever",
+        "length_in": 33,
+        "height_in": 25,
+        "weight_lbs": 28
+      }
+    ]
+  }
+]

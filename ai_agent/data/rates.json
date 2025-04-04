@@ -111,14 +111,586 @@
     }
   },
   {
-  "fromAirport": "JFK",
-  "toAirport": "CDG",
-  "airlineId": "airline2",
-  "rates": {
+    "fromAirport": "JFK",
+    "toAirport": "CDG",
+    "airlineId": "airline2",
+    "rates": {
       "Min": 130,
       "+100": 1.8,
       "PerKg": 1.8,
       "Nominal": 2.0
     }
-}
+  },
+  {
+    "fromAirport": "ORD",
+    "toAirport": "HYD",
+    "airlineId": "airline6",
+    "rates": {
+      "Min": 200,
+      "45+": 9,
+      "100+": 7,
+      "300+": 6,
+      "Nominal": 10
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "CDG",
+    "airlineId": "airline2",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "DFW",
+    "toAirport": "CDG",
+    "airlineId": "airline7",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ORD",
+    "toAirport": "CDG",
+    "airlineId": "airline7",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "LAX",
+    "toAirport": "CDG",
+    "airlineId": "airline7",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MIA",
+    "toAirport": "CDG",
+    "airlineId": "airline7",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "CDG",
+    "airlineId": "airline7",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "CDG",
+    "airlineId": "airline8",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "CDG",
+    "airlineId": "airline8",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MSP",
+    "toAirport": "CDG",
+    "airlineId": "airline8",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "SEA",
+    "toAirport": "CDG",
+    "airlineId": "airline8",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "SFO",
+    "toAirport": "FRA",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "SFO",
+    "toAirport": "MUC",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "SFO",
+    "toAirport": "BER",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "FRA",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "MUC",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "BER",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ORD",
+    "toAirport": "FRA",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ORD",
+    "toAirport": "MUC",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ORD",
+    "toAirport": "BER",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MIA",
+    "toAirport": "FRA",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MIA",
+    "toAirport": "MUC",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MIA",
+    "toAirport": "BER",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "FRA",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "MUC",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "BER",
+    "airlineId": "airline3",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "DEL",
+    "airlineId": "airline4",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "ATL",
+    "toAirport": "BOM",
+    "airlineId": "airline4",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MIA",
+    "toAirport": "DEL",
+    "airlineId": "airline4",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "MIA",
+    "toAirport": "BOM",
+    "airlineId": "airline4",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "BOS",
+    "toAirport": "DEL",
+    "airlineId": "airline4",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "BOS",
+    "toAirport": "BOM",
+    "airlineId": "airline4",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "LAX",
+    "toAirport": "DEL",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "LAX",
+    "toAirport": "BOM",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "LAX",
+    "toAirport": "BLR",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "DEL",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "BOM",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "JFK",
+    "toAirport": "BLR",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "DFW",
+    "toAirport": "DEL",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "DFW",
+    "toAirport": "BOM",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  },
+  {
+    "fromAirport": "DFW",
+    "toAirport": "BLR",
+    "airlineId": "airline5",
+    "rates": {
+      "Nominal": 4.5,
+      "45+": 4.0,
+      "100+": 3.5,
+      "300+": 3.0,
+      "500+": 2.8,
+      "1000+": 2.5,
+      "Min": 180.0
+    }
+  }
 ]

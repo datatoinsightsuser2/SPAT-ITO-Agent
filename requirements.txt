@@ -1,0 +1,9 @@
+langgraph
+langchain-community
+langchain-anthropic
+tavily-python
+pandas
+openai
+faiss-cpu
+sentence-transformers
+streamlit
