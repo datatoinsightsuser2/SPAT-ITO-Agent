@@ -195,7 +195,7 @@
       "distance": 25
     }
   ],
-  "Dubai, UAE": [
+  "Dubai, United Arab Emirates": [
     {
       "arrival_airport": "DXB",
       "distance": 20
@@ -276,7 +276,11 @@
   "Buenos Aires, Argentina": [
     {
       "arrival_airport": "EZE",
-      "distance": 35
+      "distance": 18
+    },
+    {
+    "arrival_airport": "AEP",
+    "distance": 35
     }
   ],
   "Cairo, Egypt": [

@@ -28,5 +28,20 @@
   "breed": "Golden Retriever",
   "airlinesThatAllow": ["British Airways"],
   "countriesThatBan": []
-  }
+  },
+  {
+  "breed": "Domestic Shorthair",
+  "airlinesThatAllow": ["American Airlines"],
+  "countriesThatBan": []
+},
+{
+  "breed": "Husky",
+  "airlinesThatAllow": ["Air France-KLM","Delta Airlines"],
+  "countriesThatBan": []
+},
+{
+  "breed": "Siamese",
+  "airlinesThatAllow": ["Air France-KLM","Delta Airlines"],
+  "countriesThatBan": ["United Kingdom","United Arab Emirates","France","India"]
+}
 ]

@@ -692,5 +692,38 @@
       "1000+": 2.5,
       "Min": 180.0
     }
+  },
+  {
+  "fromAirport": "LAX",
+  "toAirport": "EZE",
+  "airlineId": "airline7",
+  "rates": {
+    "Min": 150,
+    "45+": 10,
+    "100+": 8,
+    "Nominal": 12
   }
+},
+{
+  "fromAirport": "LAX",
+  "toAirport": "AEP",
+  "airlineId": "airline7",
+  "rates": {
+    "Min": 150,
+    "45+": 10,
+    "100+": 8,
+    "Nominal": 12
+  }
+},
+{
+  "fromAirport": "ATL",
+  "toAirport": "CDG",
+  "airlineId": "airline2",
+  "rates": {
+    "Min": 150,
+    "45+": 10,
+    "100+": 8,
+    "Nominal": 12
+  }
+}
 ]

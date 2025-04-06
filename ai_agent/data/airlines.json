@@ -63,7 +63,8 @@
     "airportsByCountry": [
       {"country": "United States","airports": ["JFK", "LAX", "ORD", "DFW", "MIA"]},
       {"country": "United Kingdom","airports": ["LHR", "MAN"]},
-      {"country": "France","airports": ["CDG"]}
+      {"country": "France","airports": ["CDG"]},
+      {"country": "Argentina","airports": ["EZE", "AEP"]}
     ]
   },
   {
