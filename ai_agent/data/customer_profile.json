@@ -51,7 +51,7 @@
     "email": "user4@mail.com",
     "origin": "Chicago",
     "destination_city": "London",
-    "destination_country": "UK",
+    "destination_country": "United Kingdom",
     "pets": [
       {
         "name": "Milo",
@@ -83,7 +83,7 @@
     "email": "user6@mail.com",
     "origin": "New York",
     "destination_city": "London",
-    "destination_country": "UK",
+    "destination_country": "United Kingdom",
     "pets": [
       {
         "name": "Max",
@@ -99,7 +99,7 @@
     "email": "user7@mail.com",
     "origin": "Atlanta",
     "destination_city": "Dubai",
-    "destination_country": "UAE",
+    "destination_country": "United Arab Emirates",
     "pets": [
       {
         "name": "Luna",
@@ -174,5 +174,37 @@
       "weight_lbs": 72
     }
   ]
-  }
+  },
+  {
+  "email": "user12@mail.com",
+  "origin": "Los Angeles",
+  "destination_city": "Buenos Aires",
+  "destination_country": "Argentina",
+  "pets": [
+    {
+      "name": "Kuzya",
+      "type": "cat",
+      "breed": "Domestic Shorthair",
+      "length_in": 28,
+      "height_in": 21,
+      "weight_lbs": 8
+    }
+  ]
+},
+{
+  "email": "user13@mail.com",
+  "origin": "Atlanta",
+  "destination_city": "Paris",
+  "destination_country": "France",
+  "pets": [
+    {
+      "name": "Evee",
+      "type": "dog",
+      "breed": "Husky",
+      "length_in": 49,
+      "height_in": 35,
+      "weight_lbs": 51
+    }
+  ]
+}
 ]
