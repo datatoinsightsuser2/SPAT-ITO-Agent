@@ -1,0 +1,120 @@
+[
+  {
+    "_id": "airline1",
+    "airline": "IAG",
+    "airportsByCountry": [
+      { "country": "United States", "airports": ["ATL", "BNA", "DFW"] },
+      { "country": "United Kingdom", "airports": ["LHR", "LGW"] }
+    ]
+  },
+  {
+    "_id": "airline2",
+    "airline": "Air France-KLM",
+    "airportsByCountry": [
+      { "country": "United States", "airports": ["ATL", "DFW", "JFK"] },
+      { "country": "France", "airports": ["CDG"] },
+      { "country": "United Kingdom", "airports": ["LHR"] }
+    ]
+  },
+  {
+    "_id": "airline3",
+    "airline": "Lufthansa",
+    "airportsByCountry": [
+      { "country": "United States", "airports": ["ATL", "ORD", "MIA","JFK", "ORD", "SFO"] },
+      { "country": "Germany", "airports": ["FRA", "MUC","BER"] },
+      { "country": "United Kingdom", "airports": ["LHR"] }
+    ]
+  },
+  {
+    "_id": "airline4",
+    "airline": "Amerijet",
+    "airportsByCountry": [
+      { "country": "United States", "airports": ["ATL", "BOS", "MIA"] },
+      { "country": "Mexico", "airports": ["MEX"] },
+      {
+        "country": "India",
+        "airports": ["DEL", "BOM"]
+      }
+    ]
+  },
+  {
+    "_id": "airline5",
+    "airline": "Emirates",
+    "airportsByCountry": [
+      { "country": "United States", "airports": ["JFK", "DFW", "LAX"] },
+      { "country": "United Arab Emirates", "airports": ["DXB"] },
+      {
+        "country": "India",
+        "airports": ["DEL", "BOM", "BLR"]
+      }
+    ]
+  },
+  {
+    "_id": "airline6",
+    "airline": "British Airways",
+    "airportsByCountry": [
+      { "country": "United States", "airports": ["JFK", "DFW", "LAX","ORD"] },
+      { "country": "India", "airports": ["HYD"] }
+    ]
+  },
+  {
+    "_id": "airline7",
+    "airline": "American Airlines",
+    "airportsByCountry": [
+      {"country": "United States","airports": ["JFK", "LAX", "ORD", "DFW", "MIA"]},
+      {"country": "United Kingdom","airports": ["LHR", "MAN"]},
+      {"country": "France","airports": ["CDG"]},
+      {"country": "Argentina","airports": ["EZE", "AEP"]}
+    ]
+  },
+  {
+  "_id": "airline8",
+  "airline": "Delta Airlines",
+  "airportsByCountry": [
+    {
+      "country": "United States",
+      "airports": ["ATL", "JFK", "MSP", "SEA"]
+    },
+    {
+      "country": "United Kingdom",
+      "airports": ["LHR"]
+    },
+    {
+      "country": "France",
+      "airports": ["CDG"]
+    }
+  ]
+  },
+  {
+  "_id": "airline9",
+  "airline": "Qatar Airways",
+  "airportsByCountry": [
+    {
+      "country": "Qatar",
+      "airports": ["DOH"]
+    },
+    {
+      "country": "United States",
+      "airports": ["DFW", "ORD", "ATL"]
+    },
+    {
+      "country": "India",
+      "airports": ["DEL", "HYD", "BLR"]
+    }
+  ]
+  },
+  {
+  "_id": "airline10",
+  "airline": "Air India",
+  "airportsByCountry": [
+    {
+      "country": "India",
+      "airports": ["DEL", "BOM", "HYD"]
+    },
+    {
+      "country": "United States",
+      "airports": ["JFK", "SFO", "ORD"]
+    }
+  ]
+}
+]
